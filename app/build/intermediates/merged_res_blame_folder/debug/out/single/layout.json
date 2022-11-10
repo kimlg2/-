@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\KIII\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_comment.xml",
+        "source": "C:\\KIII\\app\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "C:\\KIII\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upload.xml",
+        "source": "C:\\KIII\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\KIII\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\KIII\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\KIII\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\post_item_row.xml",
+        "source": "C:\\KIII\\app\\src\\main\\res\\layout\\post_item_row.xml"
+    },
+    {
+        "merged": "C:\\KIII\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_comment_row.xml",
+        "source": "C:\\KIII\\app\\src\\main\\res\\layout\\item_comment_row.xml"
+    }
+]

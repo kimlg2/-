@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom1"
+        android:title="아이콘1"/>
+
+    <item
+        android:id="@+id/navigation_map"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom2"
+        android:title="아이콘2"/>
+
+    <item
+        android:id="@+id/navigation_chatting"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom3"
+        android:title="아이콘3"/>
+
+    <item
+        android:id="@+id/navigation_like"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom4"
+        android:title="아이콘4"/>
+
+
+    <item
+        android:id="@+id/navigation_mypage"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom5"
+        android:title="아이콘5"/>
+
+</menu>
